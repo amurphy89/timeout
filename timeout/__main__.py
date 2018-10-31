@@ -11,7 +11,7 @@ from timeout.helpers import print_venues
 from timeout.timeout import check_venues
 
 
-ROOT_DIR = os.path.abspath(".")
+ROOT_DIR = os.path.dirname(os.path.realpath(__file__))
 
 
 def main():
