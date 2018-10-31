@@ -25,10 +25,6 @@ https://docs.python-guide.org/dev/virtualenvs/
 
 To run the tests please install pytest with ```pip install pytest``` and run ```pytest``` in the root folder.
 
-## Authors
-
-* **Ash Murphy**
-
 ##Improvements
 
 Given the time limit for this test I'd consider doing the following if I had more time:
@@ -36,3 +32,7 @@ Given the time limit for this test I'd consider doing the following if I had mor
 - logging (I usually follow the .conf format that can be found here: https://realpython.com/python-logging/)
 
 - Better input parsing and robust error handling
+
+## Authors
+
+* **Ash Murphy**
