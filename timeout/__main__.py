@@ -7,8 +7,8 @@ import sys
 from pprint import pprint
 
 
-from helpers import print_venues
-from timeout import check_venues
+from timeout.helpers import print_venues
+from timeout.timeout import check_venues
 
 
 ROOT_DIR = os.path.abspath(".")
