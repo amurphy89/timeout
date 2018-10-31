@@ -1,4 +1,4 @@
-#timeout
+# timeout
 
 timeout is a simple console app that lets the team know what venues are good and not so good for post work get togethers!
 
@@ -25,7 +25,7 @@ https://docs.python-guide.org/dev/virtualenvs/
 
 To run the tests please install pytest with ```pip install pytest``` and run ```pytest``` in the root folder.
 
-##Improvements
+## Improvements
 
 Given the time limit for this test I'd consider doing the following if I had more time:
 
